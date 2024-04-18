@@ -1,7 +1,3 @@
-Sure! Here's the README file tailored for your project, named "XAFFLE":
-
----
-
 # XAFFLE: Decentralized Raffle Smart Contract
 
 ## Overview
